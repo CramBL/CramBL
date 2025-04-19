@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Marc
 
-I like working on open-source software, especially in Rust as they are very standardized and therefor easy to get started with 😃
+I like working on open-source software, especially in Rust, as Rust projects are very standardized and therefore easy to get started with 😃
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CramBL&show_icons=true&locale=en&layout=compact&hide=verilog,tcl" alt="CramBL" /></p>
 
@@ -13,9 +13,12 @@ I like working on open-source software, especially in Rust as they are very stan
 
 ### My projects
 
-The most production-ready project I have with the **broadest usability** is probably [Fidelity Fetch](https://github.com/CramBL/fidelityfetch).
+The most production-ready projects with the **broadest usability** are probably:
 
-The most interesting projects I have are probably these:
+- [Fidelity Fetch](https://github.com/CramBL/fidelityfetch) - Portable high-performance HTTP server that acts as a file browser, with DNS-SD capabilities.
+- [MDNS Scanner](https://github.com/CramBL/mdns-scanner) - Portable TUI for scanning a network and mapping IPs to (m)DNS hostnames
+
+Potentially interesting projects:
 
 - [fastPASTA](https://github.com/CramBL/fastPASTA) - CLI for debugging the [CERN ALICE detector](https://en.wikipedia.org/wiki/ALICE_experiment)
 - [Plotinator3000](https://github.com/luftkode/plotinator3000) - High-performance Cross-platform native (+WASM) GUI for viewing logs from our sensor array at [SkyTEM](https://skytem.com/)
