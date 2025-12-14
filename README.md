@@ -6,8 +6,8 @@ I like working on open-source software, especially in Rust, as Rust projects are
 
 ### Currently contributing code to
 
-- [just](https://github.com/casey/just)
 - [ublox](https://github.com/ublox-rs/ublox)
+- [hdf5](https://github.com/metno/hdf5-rust)
 
 ... but I also help with issues and bug reports in various other projects.
 
@@ -15,13 +15,13 @@ I like working on open-source software, especially in Rust, as Rust projects are
 
 The most production-ready projects with the **broadest usability** are probably:
 
-- [Fidelity Fetch](https://github.com/CramBL/fidelityfetch) - Portable high-performance HTTP server that acts as a file browser, with DNS-SD capabilities.
 - [MDNS Scanner](https://github.com/CramBL/mdns-scanner) - Portable TUI for scanning a network and mapping IPs to (m)DNS hostnames
+- [Fidelity Fetch](https://github.com/CramBL/fidelityfetch) - Portable high-performance HTTP server that acts as a file browser, with DNS-SD capabilities.
 
 Potentially interesting projects:
 
-- [fastPASTA](https://github.com/CramBL/fastPASTA) - CLI for debugging the [CERN ALICE detector](https://en.wikipedia.org/wiki/ALICE_experiment)
 - [Plotinator3000](https://github.com/luftkode/plotinator3000) - High-performance Cross-platform native (+WASM) GUI for viewing logs from our sensor array at [SkyTEM](https://skytem.com/)
+- [fastPASTA](https://github.com/CramBL/fastPASTA) - CLI for debugging the [CERN ALICE detector](https://en.wikipedia.org/wiki/ALICE_experiment)
 
 ### On the educational side
 
