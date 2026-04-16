@@ -7,16 +7,13 @@ I like working on open-source software, especially in Rust, as Rust projects are
 ### Currently contributing code to
 
 - [ublox](https://github.com/ublox-rs/ublox)
-- [hdf5](https://github.com/metno/hdf5-rust)
+- [nmea](https://github.com/AeroRust/nmea)
 
 ... but I also help with issues and bug reports in various other projects.
 
 ### My projects
 
-The most production-ready projects with the **broadest usability** are probably:
-
 - [MDNS Scanner](https://github.com/CramBL/mdns-scanner) - Portable TUI for scanning a network and mapping IPs to (m)DNS hostnames
-- [Fidelity Fetch](https://github.com/CramBL/fidelityfetch) - Portable high-performance HTTP server that acts as a file browser, with DNS-SD capabilities.
 
 ### On the educational side
 
