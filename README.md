@@ -14,6 +14,7 @@ I like working on open-source software, especially in Rust, as Rust projects are
 ### My projects
 
 - [MDNS Scanner](https://github.com/CramBL/mdns-scanner) - Portable TUI for scanning a network and mapping IPs to (m)DNS hostnames
+- [asleep](https://github.com/CramBL/asleep) - An advanced suspend-aware sleep utility with live countdown and flexible datetime parsing. 
 
 ### On the educational side
 
